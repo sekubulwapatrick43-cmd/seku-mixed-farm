@@ -1,0 +1,9 @@
+# This is a .gcloudignore file
+
+# Exclude the following files from gcloud deployments
+*.log
+*.tmp
+*.bak
+node_modules/
+.DS_Store
+.cache/
